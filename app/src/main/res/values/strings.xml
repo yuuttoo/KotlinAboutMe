@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Aleks Haecky</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi,my name is Aleks.
+        \n\nAlex Honeysett is a Brand and Marketing Strategist who partners with CEOs,
+        \n\nexecutives and solopreneurs to grow their personal and professional brands,
+        \n\nhuman-to-human. After spending nearly a decade working in PR and marketing
+        \n\nfor multimillion dollar brands and startups, Alex knows what truly drives
+        \n\nconversions, sold-out launches, and New York Times interviews—and it’s not
+        \n\nmastering the marketing flavor of the week. It’s how well you connect with
+        \n\nthe heart-beating people you’re trying to help and communicate your
+        \nunderstanding back to them.
+        \n\nexecutives and solopreneurs to grow their personal and professional brands,
+        \n\nhuman-to-human. After spending nearly a decade working in PR and marketing
+        \n\nfor multimillion dollar brands and startups, Alex knows what truly drives
+        \n\nconversions, sold-out launches, and New York Times interviews—and it’s not
+        \n\nmastering the marketing flavor of the week. It’s how well you connect with
+        \n\nthe heart-beating people you’re trying to help and communicate your
+        \nunderstanding back to them.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+
+
+</resources>
